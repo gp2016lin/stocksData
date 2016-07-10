@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 # THIS VERSION IS FOR PYTHON 2 #
 import urllib2
 import time
